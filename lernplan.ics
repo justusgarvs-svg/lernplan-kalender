@@ -1,0 +1,1709 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statik Zeiteinteilung//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lernplan WS 26/27
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20261006-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261006T133000
+DTEND;TZID=Europe/Berlin:20261006T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261006T153000
+DTEND;TZID=Europe/Berlin:20261006T180000
+SUMMARY:Statik: A wiederholen: Schnittgrößen
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-00 Wiederholung Schnittgrößen https://youtu.be/1URoOI2xLIg\; Statik 2-01 Schnittgrößen M-Parabel einhängen https://youtu.be/P9iO6WVbGxQ
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261006T190000
+DTEND;TZID=Europe/Berlin:20261006T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261007T171500
+DTEND;TZID=Europe/Berlin:20261007T181500
+SUMMARY:Nacharbeit: Mkt\, ObT\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261008T153000
+DTEND;TZID=Europe/Berlin:20261008T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261008T200000
+DTEND;TZID=Europe/Berlin:20261008T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261009T133000
+DTEND;TZID=Europe/Berlin:20261009T141500
+SUMMARY:Nacharbeit: CNC Praktikum\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261009T143000
+DTEND;TZID=Europe/Berlin:20261009T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261010T093000
+DTEND;TZID=Europe/Berlin:20261010T123000
+SUMMARY:Statik: A wiederholen: Schnittgrößen
+DESCRIPTION:Übungsblätter A6–A8\, dazu Statik 1-12 bis 1-14 als Wiederholung (gern in 1\,5-facher Geschwindigkeit). Wochenwiederholung. Videos zur Auffrischung: Statik 1-12 Schnittgrößen 1 https://youtu.be/Qf1Ike1fOqA\; Statik 1-13 Schnittgrößen 2 https://youtu.be/ekDIXusseY4\; Statik 1-14 Schnittgrößen 3 https://youtu.be/Zy7s7GFip-M
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261012T083000
+DTEND;TZID=Europe/Berlin:20261012T113000
+SUMMARY:Statik: A abschließen: schräge und geknickte Träger\, Rahmen
+DESCRIPTION:Videos schauen\, parallel Skript A.5.8–A.5.9 (S. 129–154) lesen\, eigene Zusammenfassung. Videos: Statik 2-02 Schnittgrößen schräge Balken https://youtu.be/G6UEG3sBqFw\; Statik 2-03 Schnittgrößen geknickte Träger https://youtu.be/d5BXT8ZhRZY
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261012T133000
+DTEND;TZID=Europe/Berlin:20261012T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261012T143000
+DTEND;TZID=Europe/Berlin:20261012T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261013T133000
+DTEND;TZID=Europe/Berlin:20261013T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261013T153000
+DTEND;TZID=Europe/Berlin:20261013T180000
+SUMMARY:Statik: A abschließen: schräge und geknickte Träger\, Rahmen
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-04 Rahmen und zusammengesetzte Tragwerke https://youtu.be/DWrk_2r0N04
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261013T190000
+DTEND;TZID=Europe/Berlin:20261013T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261014T171500
+DTEND;TZID=Europe/Berlin:20261014T181500
+SUMMARY:Nacharbeit: Mkt\, LP1 Praktikum\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261015T153000
+DTEND;TZID=Europe/Berlin:20261015T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+DTEND;TZID=Europe/Berlin:20261015T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261016T133000
+DTEND;TZID=Europe/Berlin:20261016T141500
+SUMMARY:Nacharbeit: CNC Praktikum\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261016T143000
+DTEND;TZID=Europe/Berlin:20261016T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261017T093000
+DTEND;TZID=Europe/Berlin:20261017T123000
+SUMMARY:Statik: A abschließen: schräge und geknickte Träger\, Rahmen
+DESCRIPTION:Übungsblätter A9–A11. Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261019T083000
+DTEND;TZID=Europe/Berlin:20261019T113000
+SUMMARY:Statik: B: Querschnitt\, Schwerpunkt\, Flächenmomente
+DESCRIPTION:Videos schauen\, parallel Skript B.1–B.4 (S. 155–181) lesen\, eigene Zusammenfassung. Videos: Statik 2-05 Festigkeitslehre 1 (Schwerpunkt) https://youtu.be/gIp6I6O1d3k\; Statik 2-06 Festigkeitslehre 2 (Trägheitsmoment) https://youtu.be/lsi5qmdfA9M
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261019T133000
+DTEND;TZID=Europe/Berlin:20261019T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261019T143000
+DTEND;TZID=Europe/Berlin:20261019T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-nach-1800@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261020T180000
+DTEND;TZID=Europe/Berlin:20261020T184500
+SUMMARY:Nacharbeit: TWL\, PM\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261020T153000
+DTEND;TZID=Europe/Berlin:20261020T180000
+SUMMARY:Statik: B: Querschnitt\, Schwerpunkt\, Flächenmomente
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-07 Festigkeitslehre 3 (Wiederholung) https://youtu.be/Rc6FKJuxcxg
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261020T190000
+DTEND;TZID=Europe/Berlin:20261020T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261021T171500
+DTEND;TZID=Europe/Berlin:20261021T181500
+SUMMARY:Nacharbeit: Mkt\, ObT\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022-nach-1845@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261022T184500
+DTEND;TZID=Europe/Berlin:20261022T193000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261022T200000
+DTEND;TZID=Europe/Berlin:20261022T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261023-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261023T133000
+DTEND;TZID=Europe/Berlin:20261023T141500
+SUMMARY:Nacharbeit: CNC Praktikum\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261023-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261023T143000
+DTEND;TZID=Europe/Berlin:20261023T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261024-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261024T093000
+DTEND;TZID=Europe/Berlin:20261024T123000
+SUMMARY:Statik: B: Querschnitt\, Schwerpunkt\, Flächenmomente
+DESCRIPTION:Schwerpunkt und Trägheitsmoment an eigenen Querschnitten rechnen. Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261026T083000
+DTEND;TZID=Europe/Berlin:20261026T113000
+SUMMARY:Statik: B: Spannungen und Biegespannungen
+DESCRIPTION:Videos schauen\, parallel Skript B.5.1–B.5.3 (S. 182–212) lesen\, eigene Zusammenfassung. Videos: Statik 2-08 Spannungen https://youtu.be/zqt5sBj86Tg\; Statik 2-09 Biegespannungen 1 https://youtu.be/B-Bcq1PuxfM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261026T133000
+DTEND;TZID=Europe/Berlin:20261026T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261026T143000
+DTEND;TZID=Europe/Berlin:20261026T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261027T133000
+DTEND;TZID=Europe/Berlin:20261027T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261027T153000
+DTEND;TZID=Europe/Berlin:20261027T180000
+SUMMARY:Statik: B: Spannungen und Biegespannungen
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-10 Biegespannungen 2 https://youtu.be/5aGKBaOz-bw
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261027T190000
+DTEND;TZID=Europe/Berlin:20261027T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261028T171500
+DTEND;TZID=Europe/Berlin:20261028T181500
+SUMMARY:Nacharbeit: Mkt\, LP1 Praktikum\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261029T153000
+DTEND;TZID=Europe/Berlin:20261029T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261029T200000
+DTEND;TZID=Europe/Berlin:20261029T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261030T133000
+DTEND;TZID=Europe/Berlin:20261030T141500
+SUMMARY:Nacharbeit: CNC Praktikum
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261030T143000
+DTEND;TZID=Europe/Berlin:20261030T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261031T093000
+DTEND;TZID=Europe/Berlin:20261031T123000
+SUMMARY:Statik: B: Spannungen und Biegespannungen
+DESCRIPTION:Übungsaufgaben B.5 (Normal- und Biegespannung). Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261102T083000
+DTEND;TZID=Europe/Berlin:20261102T113000
+SUMMARY:Statik: B: Schubspannungen
+DESCRIPTION:Videos schauen\, parallel Skript B.5.4 (S. 213–224) lesen\, eigene Zusammenfassung. Videos: Statik 2-11 Schubspannungen 1 https://youtu.be/vFCt00Qfn2Y
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261102T133000
+DTEND;TZID=Europe/Berlin:20261102T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261102T143000
+DTEND;TZID=Europe/Berlin:20261102T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-nach-1800@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261103T180000
+DTEND;TZID=Europe/Berlin:20261103T184500
+SUMMARY:Nacharbeit: TWL\, PM\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261103T153000
+DTEND;TZID=Europe/Berlin:20261103T180000
+SUMMARY:Statik: B: Schubspannungen
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-12 Schubspannungen 2\, zus. Querschnitte https://youtu.be/tqmWQ65mCRY
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261103T190000
+DTEND;TZID=Europe/Berlin:20261103T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261104-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261104T171500
+DTEND;TZID=Europe/Berlin:20261104T181500
+SUMMARY:Nacharbeit: Mkt\, ObT\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261105T153000
+DTEND;TZID=Europe/Berlin:20261105T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261105T200000
+DTEND;TZID=Europe/Berlin:20261105T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261106T133000
+DTEND;TZID=Europe/Berlin:20261106T141500
+SUMMARY:Nacharbeit: CNC Praktikum\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261106T143000
+DTEND;TZID=Europe/Berlin:20261106T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261107T093000
+DTEND;TZID=Europe/Berlin:20261107T123000
+SUMMARY:Statik: B: Schubspannungen
+DESCRIPTION:Übungsaufgaben Schubspannung. Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261109T083000
+DTEND;TZID=Europe/Berlin:20261109T113000
+SUMMARY:Statik: B: Zusammengesetzte Querschnitte
+DESCRIPTION:Videos schauen\, parallel Skript B.6 (S. 225–245) lesen\, eigene Zusammenfassung. Videos: Statik 2-13 Zusammengesetzte Querschnitte 1 https://youtu.be/3yRTgvPp-ZM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261109T133000
+DTEND;TZID=Europe/Berlin:20261109T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261109T143000
+DTEND;TZID=Europe/Berlin:20261109T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261110T133000
+DTEND;TZID=Europe/Berlin:20261110T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261110T153000
+DTEND;TZID=Europe/Berlin:20261110T180000
+SUMMARY:Statik: B: Zusammengesetzte Querschnitte
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-14 Zusammengesetzte Querschnitte 2 https://youtu.be/GyBb2TJjGd4
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261110T190000
+DTEND;TZID=Europe/Berlin:20261110T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261111T171500
+DTEND;TZID=Europe/Berlin:20261111T181500
+SUMMARY:Nacharbeit: Mkt\, LP-W\, LP1 Praktikum\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261112T153000
+DTEND;TZID=Europe/Berlin:20261112T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261112T200000
+DTEND;TZID=Europe/Berlin:20261112T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261113T133000
+DTEND;TZID=Europe/Berlin:20261113T141500
+SUMMARY:Nacharbeit: CNC Praktikum\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261113T143000
+DTEND;TZID=Europe/Berlin:20261113T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261114-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261114T093000
+DTEND;TZID=Europe/Berlin:20261114T123000
+SUMMARY:Statik: B: Zusammengesetzte Querschnitte
+DESCRIPTION:Übungsaufgaben B.6\, Teil B gesamt wiederholen. Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261116T083000
+DTEND;TZID=Europe/Berlin:20261116T113000
+SUMMARY:Statik: C: Längenänderung und Biegelinie
+DESCRIPTION:Videos schauen\, parallel Skript C.1–C.5 (S. 246–263) lesen\, eigene Zusammenfassung. Videos: Statik 2-15 Verformungen 1 https://youtu.be/JMsMs3KYBwg
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261116T133000
+DTEND;TZID=Europe/Berlin:20261116T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261116T143000
+DTEND;TZID=Europe/Berlin:20261116T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117-nach-1800@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261117T180000
+DTEND;TZID=Europe/Berlin:20261117T184500
+SUMMARY:Nacharbeit: TWL\, PM\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261117T153000
+DTEND;TZID=Europe/Berlin:20261117T180000
+SUMMARY:Statik: C: Längenänderung und Biegelinie
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-16 Verformungen 2 https://youtu.be/9GE4sw43I10
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261117T190000
+DTEND;TZID=Europe/Berlin:20261117T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261118T171500
+DTEND;TZID=Europe/Berlin:20261118T181500
+SUMMARY:Nacharbeit: Mkt\, ObT\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261119T153000
+DTEND;TZID=Europe/Berlin:20261119T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+DTEND;TZID=Europe/Berlin:20261119T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261120T133000
+DTEND;TZID=Europe/Berlin:20261120T141500
+SUMMARY:Nacharbeit: CNC Praktikum\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261120T143000
+DTEND;TZID=Europe/Berlin:20261120T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261121T093000
+DTEND;TZID=Europe/Berlin:20261121T123000
+SUMMARY:Statik: C: Längenänderung und Biegelinie
+DESCRIPTION:Übungsaufgaben C.2–C.5. Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261123T083000
+DTEND;TZID=Europe/Berlin:20261123T113000
+SUMMARY:Statik: C: Viskoelastizität und Arbeitssatz
+DESCRIPTION:Videos schauen\, parallel Skript C.6–C.7 (S. 264–276) lesen\, eigene Zusammenfassung. Videos: Statik 2-17 Verformungen 3 https://youtu.be/wLI6tCdcLJQ
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261123T133000
+DTEND;TZID=Europe/Berlin:20261123T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261123T143000
+DTEND;TZID=Europe/Berlin:20261123T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261124T133000
+DTEND;TZID=Europe/Berlin:20261124T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261124T153000
+DTEND;TZID=Europe/Berlin:20261124T180000
+SUMMARY:Statik: C: Viskoelastizität und Arbeitssatz
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-18 Verformungen 4 (Beispiel Arbeitssatz) https://youtu.be/puazPF3gDCU
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261124T190000
+DTEND;TZID=Europe/Berlin:20261124T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261125T171500
+DTEND;TZID=Europe/Berlin:20261125T181500
+SUMMARY:Nacharbeit: Mkt\, LP1 Praktikum\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261126-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261126T153000
+DTEND;TZID=Europe/Berlin:20261126T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261126-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261126T200000
+DTEND;TZID=Europe/Berlin:20261126T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261127T133000
+DTEND;TZID=Europe/Berlin:20261127T141500
+SUMMARY:Nacharbeit: PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261127T143000
+DTEND;TZID=Europe/Berlin:20261127T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261128T093000
+DTEND;TZID=Europe/Berlin:20261128T123000
+SUMMARY:Statik: C: Viskoelastizität und Arbeitssatz
+DESCRIPTION:Übungsaufgaben Arbeitssatz. Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261130T083000
+DTEND;TZID=Europe/Berlin:20261130T113000
+SUMMARY:Statik: D: Statisch unbestimmte Tragwerke\, Kraftgrößenverfahren
+DESCRIPTION:Videos schauen\, parallel Skript D.1–D.3 (S. 277–297) lesen\, eigene Zusammenfassung. Videos: Statik 2-19 Statisch unbestimmte Systeme https://youtu.be/iYU3jPAvzEM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261130T133000
+DTEND;TZID=Europe/Berlin:20261130T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261130T143000
+DTEND;TZID=Europe/Berlin:20261130T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261201T133000
+DTEND;TZID=Europe/Berlin:20261201T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261201T153000
+DTEND;TZID=Europe/Berlin:20261201T180000
+SUMMARY:Statik: D: Statisch unbestimmte Tragwerke\, Kraftgrößenverfahren
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-20 Kraftgrößenverfahren https://youtu.be/FkXXAud12os
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261201T190000
+DTEND;TZID=Europe/Berlin:20261201T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261202-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261202T171500
+DTEND;TZID=Europe/Berlin:20261202T181500
+SUMMARY:Nacharbeit: Mkt\, ObT\, ObT Praktikum
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261203T153000
+DTEND;TZID=Europe/Berlin:20261203T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-statik-1645@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261203T164500
+DTEND;TZID=Europe/Berlin:20261203T184500
+SUMMARY:Statik: D: Statisch unbestimmte Tragwerke\, Kraftgrößenverfahren
+DESCRIPTION:Übungsaufgaben Kraftgrößenverfahren (kommt in jeder Klausur mit ca. 20–25 Punkten).
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261203T200000
+DTEND;TZID=Europe/Berlin:20261203T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261204T133000
+DTEND;TZID=Europe/Berlin:20261204T141500
+SUMMARY:Nacharbeit: ObT\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261204T143000
+DTEND;TZID=Europe/Berlin:20261204T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261205T093000
+DTEND;TZID=Europe/Berlin:20261205T123000
+SUMMARY:Statik: D: Statisch unbestimmte Tragwerke\, Kraftgrößenverfahren
+DESCRIPTION:Übungsaufgaben Kraftgrößenverfahren (kommt in jeder Klausur mit ca. 20–25 Punkten). Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261207T083000
+DTEND;TZID=Europe/Berlin:20261207T113000
+SUMMARY:Statik: D: Reduktionssatz\, E: Stabilität
+DESCRIPTION:Videos schauen\, parallel Skript D.4\, E (S. 298–312) lesen\, eigene Zusammenfassung. Videos: Statik 2-21 Reduktionssatz https://youtu.be/7qvX_RjiM-w
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261207T133000
+DTEND;TZID=Europe/Berlin:20261207T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261207T143000
+DTEND;TZID=Europe/Berlin:20261207T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261208T133000
+DTEND;TZID=Europe/Berlin:20261208T143000
+SUMMARY:Nacharbeit: TWL\, Mkt
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261208T153000
+DTEND;TZID=Europe/Berlin:20261208T180000
+SUMMARY:Statik: D: Reduktionssatz\, E: Stabilität
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-22 Stabilitätsprobleme https://youtu.be/8LkyLo_sLqw
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261208T190000
+DTEND;TZID=Europe/Berlin:20261208T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261209T171500
+DTEND;TZID=Europe/Berlin:20261209T181500
+SUMMARY:Nacharbeit: LP1 Praktikum\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-nach-1845@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261210T184500
+DTEND;TZID=Europe/Berlin:20261210T193000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261210T200000
+DTEND;TZID=Europe/Berlin:20261210T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261211T171500
+DTEND;TZID=Europe/Berlin:20261211T180000
+SUMMARY:Nacharbeit: ObT\, PM\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-arbeit-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261212T133000
+DTEND;TZID=Europe/Berlin:20261212T173000
+SUMMARY:Arbeit
+DESCRIPTION:Verschoben wegen Blockveranstaltung am Freitag.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212-statik-0930@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261212T093000
+DTEND;TZID=Europe/Berlin:20261212T123000
+SUMMARY:Statik: D: Reduktionssatz\, E: Stabilität
+DESCRIPTION:Kraftgrößenverfahren weiter üben\, Knicken und Kippen. Wochenwiederholung.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261214T083000
+DTEND;TZID=Europe/Berlin:20261214T113000
+SUMMARY:Statik: F: Torsion und Gesamtbeispiele
+DESCRIPTION:Videos schauen\, parallel Skript F (S. 313–337) lesen\, eigene Zusammenfassung. Videos: Statik 2-23 Räumliche Tragwirkung / Torsion https://youtu.be/AItcAICpOrc\; Statik 2-24 Spannungen infolge Torsion https://youtu.be/3lCuq-kF15w\; Statik 2-25 Beispiel Fahrradkurbel https://youtu.be/4ZTZIQDBnys
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261214T133000
+DTEND;TZID=Europe/Berlin:20261214T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261214T143000
+DTEND;TZID=Europe/Berlin:20261214T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261215T133000
+DTEND;TZID=Europe/Berlin:20261215T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261215T153000
+DTEND;TZID=Europe/Berlin:20261215T180000
+SUMMARY:Statik: F: Torsion und Gesamtbeispiele
+DESCRIPTION:Restliche Videos schauen\, dann Beispiele aus Skript und Begleitmaterial selbst nachrechnen. Videos: Statik 2-26 Beispiel Fachwerk + Biegebalken https://youtu.be/fZ15kuH-m34\; Statik 2-27 Beispiel Rahmen https://youtu.be/a7ihlW23ngw
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261215T190000
+DTEND;TZID=Europe/Berlin:20261215T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261216T171500
+DTEND;TZID=Europe/Berlin:20261216T181500
+SUMMARY:Nacharbeit: Mkt\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261217T153000
+DTEND;TZID=Europe/Berlin:20261217T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-statik-1645@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261217T164500
+DTEND;TZID=Europe/Berlin:20261217T184500
+SUMMARY:Statik: F: Torsion und Gesamtbeispiele
+DESCRIPTION:Torsionsaufgaben\, Gesamtbeispiele\; Sa: Probeklausur 1 (SS 2010).
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261217T200000
+DTEND;TZID=Europe/Berlin:20261217T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261218T133000
+DTEND;TZID=Europe/Berlin:20261218T141500
+SUMMARY:Nacharbeit: ObT\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261218T143000
+DTEND;TZID=Europe/Berlin:20261218T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261219T090000
+DTEND;TZID=Europe/Berlin:20261219T130000
+SUMMARY:Statik: Probeklausur 1: SS 2010
+DESCRIPTION:SS_10_Statik_HT_IAB.pdf komplett\, 120 Minuten auf Zeit\, mit deinen Hilfsmitteln. Danach mit Skript korrigieren\, Fehler in die Fehlerliste.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261221-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261221T083000
+DTEND;TZID=Europe/Berlin:20261221T113000
+SUMMARY:Statik: Themenweise: Querschnitte und Spannungen
+DESCRIPTION:Aufgabe 1 aus SS_07\, SS_09_IAB und WS_08_09: Trägheitsmoment\, ideeller Querschnitt\, Biege- und Schubspannung\, Durchbiegung. Videos zur Auffrischung: Statik 1-01 Kraft und Drehmoment 1 https://youtu.be/UVZk4WLfEOU\; Statik 1-02 Kraft und Drehmoment 2 https://youtu.be/Ruy7joRgam8
+END:VEVENT
+BEGIN:VEVENT
+UID:20261221-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261221T133000
+DTEND;TZID=Europe/Berlin:20261221T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261221-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261221T143000
+DTEND;TZID=Europe/Berlin:20261221T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261222-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261222T133000
+DTEND;TZID=Europe/Berlin:20261222T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261222-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261222T153000
+DTEND;TZID=Europe/Berlin:20261222T180000
+SUMMARY:Statik: Themenweise: Schnittgrößen an Rahmen
+DESCRIPTION:Schnittgrößenaufgaben (Aufgabe 2) aus SS_09_IAB\, WS_09_10 und WS_08_09. Videos zur Auffrischung: Statik 1-06 Auflagerreaktionen 1 https://youtu.be/FRoHZAMHD2c\; Statik 1-07 Auflagerreaktionen 2 https://youtu.be/XCMi80rQ0rk\; Statik 1-08 Auflagerreaktionen 3 https://youtu.be/H6GA89ID3gU
+END:VEVENT
+BEGIN:VEVENT
+UID:20261222-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261222T190000
+DTEND;TZID=Europe/Berlin:20261222T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261223T171500
+DTEND;TZID=Europe/Berlin:20261223T181500
+SUMMARY:Nacharbeit: Mkt\, ObT Praktikum
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20261228-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261228T090000
+DTEND;TZID=Europe/Berlin:20261228T130000
+SUMMARY:Statik: Themenweise: Kraftgrößenverfahren
+DESCRIPTION:Statisch unbestimmte Aufgaben aus SS_07\, SS_09_HT\, SS_09_IAB und WS_09_10 (jeweils Aufgabe 3). Videos zur Auffrischung: Statik 1-03 Kraft und Drehmoment 3 https://youtu.be/EYFJ0tb_7BE\; Statik 1-04 Kraft und Drehmoment 4 https://youtu.be/JNcr9aHdMxM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261228-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261228T143000
+DTEND;TZID=Europe/Berlin:20261228T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20261229-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261229T090000
+DTEND;TZID=Europe/Berlin:20261229T130000
+SUMMARY:Statik: Themenweise: Fachwerke
+DESCRIPTION:Fachwerkaufgaben aus SS_09_HT (A4) und WS_09_10 (A5): Knotengleichgewicht\, Ritterschnitt\, zeichnerisch. Videos zur Auffrischung: Statik 1-09 Fachwerke 1 https://youtu.be/ucmAoeufx5k\; Statik 1-10 Fachwerke 2 https://youtu.be/HhfTuV5XN1s\; Statik 1-11 Fachwerke 3 https://youtu.be/rmmtAWXYPf0
+END:VEVENT
+BEGIN:VEVENT
+UID:20261229-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261229T190000
+DTEND;TZID=Europe/Berlin:20261229T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20261230T090000
+DTEND;TZID=Europe/Berlin:20261230T130000
+SUMMARY:Statik: Themenweise: Torsion\, Knicken\, Kippen\, Arbeitssatz
+DESCRIPTION:Kleinaufgaben aus SS_07 (Torsion)\, WS_09_10 (A4 Torsion)\, WS_08_09 (A1 Knicklast)\, SS_09_HT (A1d Kippen). Videos zur Auffrischung: Statik 1-05 Lasten auf schräge Stäbe https://youtu.be/MX1nl5vakBk\; Statik 1-05a Aussteifung am Modell https://youtu.be/6O65bPoEVzg\; Statik 2-28 Beispiel Trägerrost https://youtu.be/eyKxFpdTbdg
+END:VEVENT
+BEGIN:VEVENT
+UID:20270102-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270102T090000
+DTEND;TZID=Europe/Berlin:20270102T130000
+SUMMARY:Statik: Fehlerliste und Hilfsmittelordner
+DESCRIPTION:Fehlerliste durchgehen\, schwächstes Thema nachrechnen. Wiederholungsaufgaben im Skript (S. 338–346) rechnen. Skript mit Registern versehen und eigene Formelsammlung anlegen (Hilfsmittel sind in der Prüfung erlaubt\, Quelle mit Seitenzahl angeben).
+END:VEVENT
+BEGIN:VEVENT
+UID:20270104-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270104T090000
+DTEND;TZID=Europe/Berlin:20270104T130000
+SUMMARY:Statik: Probeklausur 2: WS 2010/11
+DESCRIPTION:WS_10_11_Statik_HT_IAB.pdf komplett\, 120 Minuten auf Zeit\, danach korrigieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270104-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270104T143000
+DTEND;TZID=Europe/Berlin:20270104T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270105-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270105T090000
+DTEND;TZID=Europe/Berlin:20270105T130000
+SUMMARY:Statik: Probeklausur 2 nacharbeiten
+DESCRIPTION:Jede falsche Teilaufgabe neu rechnen\, ähnliche Aufgabe aus einer anderen Altklausur suchen und lösen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270105-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270105T190000
+DTEND;TZID=Europe/Berlin:20270105T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270107T153000
+DTEND;TZID=Europe/Berlin:20270107T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107-statik-1645@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270107T164500
+DTEND;TZID=Europe/Berlin:20270107T184500
+SUMMARY:Statik: Üben: Fehlerliste
+DESCRIPTION:Aufgaben zu den Themen aus deiner Fehlerliste aus noch nicht genutzten Teilen der Altklausuren rechnen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270107T200000
+DTEND;TZID=Europe/Berlin:20270107T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270108-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270108T133000
+DTEND;TZID=Europe/Berlin:20270108T141500
+SUMMARY:Nacharbeit: PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270108-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270108T143000
+DTEND;TZID=Europe/Berlin:20270108T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270109-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270109T090000
+DTEND;TZID=Europe/Berlin:20270109T130000
+SUMMARY:Statik: Probeklausur 3: SS 2011
+DESCRIPTION:SS_11_Statik_HT_IAB.pdf komplett\, 120 Minuten auf Zeit\, danach korrigieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270111-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270111T083000
+DTEND;TZID=Europe/Berlin:20270111T113000
+SUMMARY:Statik: Probeklausur 3 nacharbeiten
+DESCRIPTION:Fehler aus SS_11 neu rechnen\, Fehlerliste aktualisieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270111-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270111T133000
+DTEND;TZID=Europe/Berlin:20270111T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270111-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270111T143000
+DTEND;TZID=Europe/Berlin:20270111T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270112-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270112T133000
+DTEND;TZID=Europe/Berlin:20270112T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270112-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270112T153000
+DTEND;TZID=Europe/Berlin:20270112T180000
+SUMMARY:Statik: Schwachstellen
+DESCRIPTION:Das Thema mit den meisten Einträgen in der Fehlerliste gezielt üben.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270112-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270112T190000
+DTEND;TZID=Europe/Berlin:20270112T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270113-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270113T171500
+DTEND;TZID=Europe/Berlin:20270113T181500
+SUMMARY:Nacharbeit: Mkt\, LP1 Praktikum\, ObT Praktikum\, GBau
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270114-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270114T153000
+DTEND;TZID=Europe/Berlin:20270114T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270114-statik-1645@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270114T164500
+DTEND;TZID=Europe/Berlin:20270114T184500
+SUMMARY:Statik: Üben: Fehlerliste
+DESCRIPTION:Aufgaben zu den Themen aus deiner Fehlerliste aus noch nicht genutzten Teilen der Altklausuren rechnen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270114-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270114T200000
+DTEND;TZID=Europe/Berlin:20270114T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270115-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270115T133000
+DTEND;TZID=Europe/Berlin:20270115T141500
+SUMMARY:Nacharbeit: ObT\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270115-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270115T143000
+DTEND;TZID=Europe/Berlin:20270115T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270116-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270116T090000
+DTEND;TZID=Europe/Berlin:20270116T130000
+SUMMARY:Statik: Probeklausur 4: WS 2011/12
+DESCRIPTION:WS_11_12_Statik_HT_IAB.pdf komplett\, 120 Minuten auf Zeit\, danach korrigieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270118-statik-0830@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270118T083000
+DTEND;TZID=Europe/Berlin:20270118T113000
+SUMMARY:Statik: Probeklausur 5: SS 2012 (150 min)
+DESCRIPTION:SS_12_Statik_HT_IAB.pdf komplett\, 150 Minuten auf Zeit\, kurze Korrektur.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270118-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270118T133000
+DTEND;TZID=Europe/Berlin:20270118T141500
+SUMMARY:Nacharbeit: LP1\, TWL Übung
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270118-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270118T143000
+DTEND;TZID=Europe/Berlin:20270118T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270119-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270119T133000
+DTEND;TZID=Europe/Berlin:20270119T143000
+SUMMARY:Nacharbeit: TWL
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270119-statik-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270119T153000
+DTEND;TZID=Europe/Berlin:20270119T180000
+SUMMARY:Statik: Probeklausuren 4 und 5 nacharbeiten
+DESCRIPTION:Fehler aus WS_11_12 und SS_12 neu rechnen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270119-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270119T190000
+DTEND;TZID=Europe/Berlin:20270119T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270120-nach-1715@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270120T171500
+DTEND;TZID=Europe/Berlin:20270120T181500
+SUMMARY:Nacharbeit: Mkt\, LP1 Praktikum\, ObT Praktikum
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270121-nach-1530@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270121T153000
+DTEND;TZID=Europe/Berlin:20270121T163000
+SUMMARY:Nacharbeit: ProjSem3\, Bauko\, WSD
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270121-statik-1645@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270121T164500
+DTEND;TZID=Europe/Berlin:20270121T184500
+SUMMARY:Statik: Schwachstellen
+DESCRIPTION:Gezielt das schwächste Thema aus der Fehlerliste.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270121-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270121T200000
+DTEND;TZID=Europe/Berlin:20270121T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122-nach-1330@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270122T133000
+DTEND;TZID=Europe/Berlin:20270122T141500
+SUMMARY:Nacharbeit: CNC Praktikum\, PM
+DESCRIPTION:Mitschrift ordnen\, offene Fragen notieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122-arbeit-1430@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270122T143000
+DTEND;TZID=Europe/Berlin:20270122T183000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270123-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270123T090000
+DTEND;TZID=Europe/Berlin:20270123T123000
+SUMMARY:Statik: Probeklausur 6: WS 2012/13 (150 min)
+DESCRIPTION:WS_12_13_Statik_HT_IAB.pdf komplett\, 150 Minuten auf Zeit\, danach korrigieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270125-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270125T090000
+DTEND;TZID=Europe/Berlin:20270125T123000
+SUMMARY:Statik: Probeklausur 7: SS 2013 (150 min)
+DESCRIPTION:SS_13_Statik_HT_IAB.pdf komplett\, 150 Minuten auf Zeit\, danach korrigieren.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270125-arbeit-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270125T140000
+DTEND;TZID=Europe/Berlin:20270125T180000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270126-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270126T090000
+DTEND;TZID=Europe/Berlin:20270126T123000
+SUMMARY:Statik: Probeklausuren 6 und 7 nacharbeiten
+DESCRIPTION:Fehler aus WS_12_13 und SS_13 neu rechnen\, Hilfsmittelordner ergänzen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270126-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270126T140000
+DTEND;TZID=Europe/Berlin:20270126T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270126-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270126T190000
+DTEND;TZID=Europe/Berlin:20270126T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270127-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270127T090000
+DTEND;TZID=Europe/Berlin:20270127T123000
+SUMMARY:Statik: Generalprobe: WS 2013/14 (150 min)
+DESCRIPTION:WS_13_14_Statik_HT_IAB.pdf unter echten Bedingungen: 150 Minuten\, nur deine Prüfungshilfsmittel\, ohne Pause.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270127-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270127T140000
+DTEND;TZID=Europe/Berlin:20270127T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270128-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270128T090000
+DTEND;TZID=Europe/Berlin:20270128T123000
+SUMMARY:Statik: Generalprobe nacharbeiten
+DESCRIPTION:Fehler aus WS_13_14 neu rechnen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270128-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270128T140000
+DTEND;TZID=Europe/Berlin:20270128T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270128-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270128T200000
+DTEND;TZID=Europe/Berlin:20270128T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270129-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270129T090000
+DTEND;TZID=Europe/Berlin:20270129T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270129-arbeit-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270129T140000
+DTEND;TZID=Europe/Berlin:20270129T180000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270130-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270130T090000
+DTEND;TZID=Europe/Berlin:20270130T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270201-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270201T090000
+DTEND;TZID=Europe/Berlin:20270201T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270201-arbeit-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270201T140000
+DTEND;TZID=Europe/Berlin:20270201T180000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270202-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270202T090000
+DTEND;TZID=Europe/Berlin:20270202T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270202-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270202T140000
+DTEND;TZID=Europe/Berlin:20270202T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270202-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270202T190000
+DTEND;TZID=Europe/Berlin:20270202T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270203-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270203T090000
+DTEND;TZID=Europe/Berlin:20270203T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270203-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270203T140000
+DTEND;TZID=Europe/Berlin:20270203T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270204-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270204T090000
+DTEND;TZID=Europe/Berlin:20270204T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270204-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270204T140000
+DTEND;TZID=Europe/Berlin:20270204T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270204-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270204T200000
+DTEND;TZID=Europe/Berlin:20270204T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270205-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270205T090000
+DTEND;TZID=Europe/Berlin:20270205T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270205-arbeit-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270205T140000
+DTEND;TZID=Europe/Berlin:20270205T180000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270206-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270206T090000
+DTEND;TZID=Europe/Berlin:20270206T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270208-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270208T090000
+DTEND;TZID=Europe/Berlin:20270208T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270208-arbeit-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270208T140000
+DTEND;TZID=Europe/Berlin:20270208T180000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270209-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270209T090000
+DTEND;TZID=Europe/Berlin:20270209T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270209-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270209T140000
+DTEND;TZID=Europe/Berlin:20270209T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270209-hockey-1900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270209T190000
+DTEND;TZID=Europe/Berlin:20270209T203000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270210-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270210T090000
+DTEND;TZID=Europe/Berlin:20270210T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270210-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270210T140000
+DTEND;TZID=Europe/Berlin:20270210T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270211-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270211T090000
+DTEND;TZID=Europe/Berlin:20270211T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270211-andere-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270211T140000
+DTEND;TZID=Europe/Berlin:20270211T170000
+SUMMARY:Prüfungsvorbereitung andere Fächer
+DESCRIPTION:Wird auf die Prüfungstermine verteilt\, sobald sie feststehen.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270211-hockey-2000@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270211T200000
+DTEND;TZID=Europe/Berlin:20270211T213000
+SUMMARY:Hockeytraining
+END:VEVENT
+BEGIN:VEVENT
+UID:20270212-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270212T090000
+DTEND;TZID=Europe/Berlin:20270212T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+BEGIN:VEVENT
+UID:20270212-arbeit-1400@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270212T140000
+DTEND;TZID=Europe/Berlin:20270212T180000
+SUMMARY:Arbeit
+END:VEVENT
+BEGIN:VEVENT
+UID:20270213-statik-0900@statik-zeiteinteilung
+DTSTAMP:20261005T184709Z
+DTSTART;TZID=Europe/Berlin:20270213T090000
+DTEND;TZID=Europe/Berlin:20270213T123000
+SUMMARY:Statik: Prüfungsphase
+DESCRIPTION:Fehlerliste abarbeiten\, schwache Altklausuren ein zweites Mal rechnen\, Hilfsmittelordner fertig machen. Bis zum Prüfungstermin.
+END:VEVENT
+END:VCALENDAR
